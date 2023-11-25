@@ -1,12 +1,11 @@
 {
-  "students": [
-    {
-      "name": "Robert Smith",
-      "id": 4
-    },
-    {
-      "name": "Tan Smith",
-      "id": 5
+"students": [
+{"name": "Robert Smith",
+"id": 4
+},
+{
+"name": "Tan Smith",
+"id": 5
     },
     {
       "name": "Jane Smith",
